@@ -1,0 +1,12 @@
+D:\Projects\HelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\Projects\HelloService\HelloService\bin\Debug\HelloService.dll
+D:\Projects\HelloService\HelloService\bin\Debug\HelloService.pdb
+D:\Projects\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+D:\Projects\HelloService\HelloService\obj\Debug\HelloService.dll
+D:\Projects\HelloService\HelloService\obj\Debug\HelloService.pdb
+D:\Projects\WCF\HelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\Projects\WCF\HelloService\HelloService\bin\Debug\HelloService.dll
+D:\Projects\WCF\HelloService\HelloService\bin\Debug\HelloService.pdb
+D:\Projects\WCF\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+D:\Projects\WCF\HelloService\HelloService\obj\Debug\HelloService.dll
+D:\Projects\WCF\HelloService\HelloService\obj\Debug\HelloService.pdb

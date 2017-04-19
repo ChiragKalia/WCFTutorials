@@ -1,0 +1,16 @@
+D:\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+D:\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+D:\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+D:\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+D:\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+D:\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+D:\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+D:\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+D:\Projects\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+D:\Projects\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+D:\Projects\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+D:\Projects\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+D:\Projects\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+D:\Projects\WCF\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+D:\Projects\WCF\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+D:\Projects\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache

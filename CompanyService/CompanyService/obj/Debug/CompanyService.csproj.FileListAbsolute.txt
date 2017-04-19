@@ -1,0 +1,6 @@
+D:\Projects\WCF\CompanyService\CompanyService\bin\Debug\CompanyService.dll.config
+D:\Projects\WCF\CompanyService\CompanyService\bin\Debug\CompanyService.dll
+D:\Projects\WCF\CompanyService\CompanyService\bin\Debug\CompanyService.pdb
+D:\Projects\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.dll
+D:\Projects\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.pdb
+D:\Projects\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.csprojResolveAssemblyReference.cache

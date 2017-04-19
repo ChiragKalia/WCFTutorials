@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<form method="post" action="/Home/Index">
+    <input type="text" id="userName" name="userName" />
+    <input type="submit" value="Get Message" />
+</form>
+@if( ViewBag.Message != "")
+{
+    <span>@ViewBag.Message</span>
+}
+
+
+
+
