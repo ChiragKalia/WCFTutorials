@@ -1,0 +1,11 @@
+D:\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.dll
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.xml
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+D:\Projects\WCFTutorials\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb

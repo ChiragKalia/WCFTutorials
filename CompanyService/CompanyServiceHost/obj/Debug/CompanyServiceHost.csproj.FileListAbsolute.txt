@@ -6,3 +6,6 @@ D:\Projects\WCF\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.e
 D:\Projects\WCF\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb
 D:\Projects\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll
 D:\Projects\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.pdb
+D:\Projects\WCFTutorials\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+D:\Projects\WCFTutorials\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+D:\Projects\WCFTutorials\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb
